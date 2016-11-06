@@ -15,6 +15,7 @@ public class TestForPalindrome {
 	public static void main(String[] args) 
 	{
 		System.out.println(TestForPalindrome.isPalindrome("Deleveled"));
+		System.out.println("Test 2");
 
 
 	}
