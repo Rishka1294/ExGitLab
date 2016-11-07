@@ -17,6 +17,9 @@ public class TestForPalindrome {
 		System.out.println(TestForPalindrome.isPalindrome("Deleveled"));
 		System.out.println("Test 2");
 		System.out.println("Hello happy sales people!");
+		System.out.println("Lab video 4 commit test");
+
+		
 
 	}
 	
